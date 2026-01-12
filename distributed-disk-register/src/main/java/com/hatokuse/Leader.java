@@ -1,4 +1,4 @@
-package com.example.hatokuse;
+package com.hatokuse;
 
 import com.hatokuse.grpc.*;
 import io.grpc.ManagedChannel;

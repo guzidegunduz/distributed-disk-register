@@ -1,7 +1,7 @@
 #!/bin/bash
 
 GRPC_PORT=${1:-50051}
-CLIENT_PORT=${2:-8080}
+CLIENT_PORT=${2:-6666}
 
 echo "Lider başlatılıyor..."
 echo "  gRPC Port: $GRPC_PORT"

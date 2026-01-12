@@ -1,4 +1,4 @@
-package com.example.hatokuse;
+package com.hatokuse;
 
 import java.io.*;
 import java.net.*;
